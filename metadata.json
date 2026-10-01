@@ -1,0 +1,6 @@
+{
+  "name": "UGT Vitoria - Limpieza y RSU",
+  "description": "Aplicación móvil oficial para afiliados y trabajadores de UGT Limpieza Viaria y RSU del Ayuntamiento de Vitoria-Gasteiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
