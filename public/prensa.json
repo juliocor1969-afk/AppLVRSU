@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5,
+    "fecha": "Febrero 2026",
+    "medio": "Noticias de Álava",
+    "titular": "UGT ratifica la subida salarial vinculada al IPC para la plantilla de Limpieza Viaria y RSU de Vitoria",
+    "enlace": "https://www.noticiasdealava.eus/",
+    "resumen": "La representación sindical de UGT en el servicio de limpieza pública viaria y recogida de basuras acuerda la aplicación de las nuevas tablas salariales con efecto retroactivo."
+  },
+  {
+    "id": 4,
+    "fecha": "Noviembre 2025",
+    "medio": "El Correo",
+    "titular": "UGT exige reforzar las medidas de prevención térmica y seguridad laboral en las lonjas de Vitoria",
+    "enlace": "https://www.elcorreo.com/alava/",
+    "resumen": "El sindicato demanda a través del Comité de Seguridad y Salud protocolos más estrictos ante condiciones climatológicas adversas y adecuación ergonómica."
+  },
+  {
+    "id": 3,
+    "fecha": "Agosto 2025",
+    "medio": "Gasteiz Hoy",
+    "titular": "UGT destaca la profesionalidad del personal de limpieza durante las Fiestas de La Blanca",
+    "enlace": "https://www.gasteizhoy.com/",
+    "resumen": "Reconocimiento al sobreesfuerzo de los equipos de barrido y recogida tras los actos multitudinarios de las fiestas patronales."
+  },
+  {
+    "id": 2,
+    "fecha": "Mayo 2025",
+    "medio": "Cadena SER",
+    "titular": "Acuerdo para la homologación y estabilidad de la contrata de limpieza de Vitoria-Gasteiz",
+    "enlace": "https://cadenaser.com/radio-vitoria/",
+    "resumen": "UGT Servicios Públicos logra un marco de garantías para consolidar derechos laborales y conciliación para toda la plantilla."
+  },
+  {
+    "id": 1,
+    "fecha": "Febrero 2025",
+    "medio": "El Correo",
+    "titular": "Plan de choque para la renovación de EPIs y calzado ergonómico en la contrata municipal",
+    "enlace": "https://www.elcorreo.com/alava/",
+    "resumen": "La interlocución sindical de UGT consigue el compromiso de renovación de uniformidad y calzado con mayor amortiguación."
+  }
+]
