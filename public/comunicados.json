@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fecha": "30/09/2026",
+    "titulo": "Bienvenidos a la aplicación",
+    "texto": "Damos la bienvenida a todas las compañeras y compañeros a esta nueva herramienta informativa de la Sección Sindical UGT Limpieza Viaria y RSU Vitoria-Gasteiz.",
+    "imagen": ""
+  },
+  {
+    "id": 2,
+    "fecha": "29/09/2026",
+    "titulo": "Problemas con el fichaje",
+    "texto": "Ante las incidencias detectadas en el sistema de fichaje durante los últimos relevos, recordamos que se debe comunicar inmediatamente al delegado o responsable de lonja.",
+    "imagen": ""
+  },
+  {
+    "id": 3,
+    "fecha": "24/09/2026",
+    "titulo": "Documento para su firma",
+    "texto": "Está disponible en las oficinas sindicales el nuevo anexo de homologación para su revisión y firma por parte de las personas afectadas.",
+    "imagen": ""
+  },
+  {
+    "id": 4,
+    "fecha": "17/09/2026",
+    "titulo": "Lotería de navidad",
+    "texto": "Ya están disponibles las participaciones de la Lotería de Navidad de la Sección Sindical UGT. Podéis solicitarlas a través de vuestros delegados de lonja.",
+    "imagen": ""
+  },
+  {
+    "id": 5,
+    "fecha": "16/09/2026",
+    "titulo": "Informaciones varias",
+    "texto": "Recordatorio sobre los plazos de solicitud para permisos retribuidos, cursos de formación y revisiones médicas periódicas correspondientes al último trimestre.",
+    "imagen": ""
+  }
+]
